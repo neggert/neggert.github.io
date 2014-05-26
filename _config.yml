@@ -1,0 +1,11 @@
+port: 4000
+safe: true
+pygments: true
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      author: "Nic Eggert"
+
