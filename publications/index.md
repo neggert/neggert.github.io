@@ -30,7 +30,9 @@ Since members of the collaboration sign all papers, there are many CMS publicati
 <span class="author">CMS Collaboration,</span>
 <span class="title">
 Searches for electroweak production of charginos, neutralinos, and sleptons decaying to leptons and W, Z, and Higgs bosons in pp collisions at 8 TeV</span>,
-<span class="journal">Soon to be submitted to EPJC and the arXiv</span>.
+<span class="journal">Submitted to EPJC</span>.
+<span class="year">(2013)</span>
+<span class="arxiv"><a href="http://arxiv.org/abs/1405.7570">arXiv:1405.7570</a></span>.
 </cite>
 
 Note: This paper includes several analyses. I did the one in Section 8.
