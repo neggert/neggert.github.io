@@ -4,7 +4,7 @@ layout: page
 ---
 
 
-# Projects
+# <span itemprop="name">Nic Eggert</span> &ndash; Projects
 
 ## matplotlib
 
