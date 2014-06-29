@@ -7,7 +7,7 @@ layout: page
 
 ## Current Status
 
-I'm currently finishing up a post-doc working for Prof. Lawrence Gibbons at Cornell University on the [Muon g&minus;2](http://muon-g-2.fnal.gov) experiment. I'll soon be starting a position as a Data Scientist at Seagate Technologies in Shakopee, MN.
+I just started a position as a Data Scientist at Seagate Technologies in Shakopee, MN. Before that, I finished up a post-doc working for Prof. Lawrence Gibbons at Cornell University on the [Muon g&minus;2](http://muon-g-2.fnal.gov) experiment. 
 
 ## Education
 
