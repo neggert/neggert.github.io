@@ -14,7 +14,7 @@ layout: page
 
 ## CMS Papers
 
-Since members of the collaboration sign all papers, there are many CMS publications with my name on them. These are the ones where I personally contributed to the analysis and writing.
+Since members of the <span itemprop="memberOf">CMS collaboration</span> sign all papers, there are many CMS publications with my name on them. These are the ones where I personally contributed to the analysis and writing.
 
 <cite>
 <span class="author">CMS Collaboration,</span>
