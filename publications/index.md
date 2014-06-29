@@ -3,7 +3,7 @@ title: Nic Eggert &ndash; Publications
 layout: page
 ---
 
-# <span itemprop="name">Nic Eggert</span> &ndash; Publications
+# Publications
 
 ## My Thesis
 

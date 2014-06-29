@@ -3,7 +3,7 @@ title: Nic Eggert &ndash; About Me
 layout: page
 ---
 
-# <span itemprop="name">Nic Eggert</span> &ndash; About Me
+# About Me
 
 ## Current Status
 

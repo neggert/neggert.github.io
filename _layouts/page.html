@@ -31,7 +31,8 @@
 </head>
 <body>
 
-	<div class="container">
+	<div class="container" itemscope itemtype="http://schema.org/Person">
+		<h1><span itemprop="name">Nic Eggert</span></h1>
 		<header id="nav" class="sixteen columns">
 			<ul>
 				<li><a href="{{site.url}}/">Home</a></li>
@@ -42,7 +43,7 @@
 		</header><!-- nav -->
 
 		<div class="thirteen columns">
-			<div id="content" itemscope itemtype="http://schema.org/Person">
+			<div id="content">
 				{{ content }}
 			</div>
 		</div>
