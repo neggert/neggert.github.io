@@ -1,5 +1,5 @@
 ---
-title: Nic Eggert &ndash; Projects
+title: Nicholas Eggert &ndash; Projects
 layout: page
 ---
 
