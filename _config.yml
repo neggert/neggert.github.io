@@ -8,5 +8,5 @@ defaults:
     scope:
       path: ""
     values:
-      author: "Nicholas Eggert"
+      author: "Nic Eggert"
 

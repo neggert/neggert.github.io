@@ -1,5 +1,5 @@
 ---
-title: Nicholas Eggert
+title: Nic Eggert
 layout: page
 ---
 
@@ -7,10 +7,10 @@ layout: page
 
 ## Work
 
-I'm currently a data scientist at Seagate Technology in Shakopee, MN. There, I work on analyzing and modeling failed
-hard drives.
+I'm currently a data scientist at Seagate Technology in Shakopee, MN. There, I work on analyzing and modeling
+hard drive failures.
 
-Before I made the transition to data science, I was an experimental particle physicist. While working on my PhD, worked on the CMS experiment at the Large Hadron Collider at CERN, doing mostly data analysis. I also did a brief stint as a Postdoctoral Associate at Cornell, where I designed reconstruction algorithms and wrote firmware for the upcoming [Muon g&minus;2](http://muon-g-2.fnal.gov) experiment at Fermilab.
+Before I made the transition to data science, I was an experimental particle physicist. While working on my PhD, I analyzed data from the CMS experiment at the Large Hadron Collider at CERN. I also did a brief stint as a Postdoctoral Associate at Cornell, where I designed reconstruction algorithms and wrote firmware for the upcoming [Muon g&minus;2](http://muon-g-2.fnal.gov) experiment at Fermilab.
 
 ## Education
 

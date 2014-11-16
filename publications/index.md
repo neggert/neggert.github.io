@@ -1,5 +1,5 @@
 ---
-title: Nicholas Eggert &ndash; Publications
+title: Nic Eggert &ndash; Publications
 layout: page
 ---
 
