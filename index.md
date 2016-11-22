@@ -9,7 +9,7 @@ layout: page
 
 I'm currently a data scientist at Target in Minneapolis, MN. I work on a wide variety of things, including deep neural networks, marketing attribution, and large-scale graph algorithms. Among other things, I make heavy use of [Apache Spark](http://spark.apache.org) and [Tensorflow](http://tensorflow.org).
 
-Previously, I worked at Seagate Technology in Shakopee, MN. There, I work on analyzing, modeling, and predicting hard drive failures.
+Previously, I worked at Seagate Technology in Shakopee, MN. There, I worked on analyzing, modeling, and predicting hard drive failures.
 
 Before I made the transition to data science, I was an experimental particle physicist. While working on my PhD, I analyzed data from the CMS experiment at the Large Hadron Collider at CERN. I also did a brief stint as a Postdoctoral Associate at Cornell, where I designed reconstruction algorithms and wrote firmware for the upcoming [Muon g&minus;2](http://muon-g-2.fnal.gov) experiment at Fermilab.
 
