@@ -18,7 +18,7 @@ Since members of the <span itemprop="memberOf">CMS collaboration</span> sign all
 
 <cite>
 <span class="author">CMS Collaboration,</span>
-<span class="title">Measurement of masses in the tt&#772; system by kinematic endpoints in pp collisions at &#x221A;s = 7 TeV</span>,
+<span class="title">Measurement of masses in the tt&#772; system by kinematic endpoints in pp collisions at &#x221A;s = 7 TeV</span>,.
 <span class="journal">EPJC</span>
 <span class="volume">73</span>,
 <span class="page">2494</span>
@@ -29,8 +29,10 @@ Since members of the <span itemprop="memberOf">CMS collaboration</span> sign all
 <cite>
 <span class="author">CMS Collaboration,</span>
 <span class="title">
-Searches for electroweak production of charginos, neutralinos, and sleptons decaying to leptons and W, Z, and Higgs bosons in pp collisions at 8 TeV</span>,
-<span class="journal">Submitted to EPJC</span>.
+Searches for electroweak production of charginos, neutralinos, and sleptons decaying to leptons and W, Z, and Higgs bosons in pp collisions at 8 TeV</span>.
+<span class="journal">EPJC</span>
+<span class="volume">74</span>,
+<span class="page">3036</span>
 <span class="year">(2013)</span>
 <span class="arxiv"><a href="http://arxiv.org/abs/1405.7570">arXiv:1405.7570</a></span>.
 </cite>
@@ -38,6 +40,15 @@ Searches for electroweak production of charginos, neutralinos, and sleptons deca
 Note: This paper includes several analyses. I did the one in Section 8.
 
 ## Other
+
+<cite>
+<span class="author">Grange, et. al.</span>
+<span class="title">Muon (g&minus;2) Technical Design Report</span>.
+<span class="year">(2015)</span>.
+<span class="arxiv"><a href="https://arxiv.org/abs/1501.06858">arXiv:1501.06858</a></span>.
+</cite>
+
+Note: I worked on design and firmware for the waveform digitizer described in chapter 18.
 
 <cite>
 <span class="author">Nicholas Eggert, Roger Rusack, and Jeremiah Mans</span>,
