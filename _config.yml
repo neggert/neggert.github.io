@@ -1,6 +1,5 @@
 port: 4000
 safe: true
-pygments: true
 markdown: kramdown
 
 defaults:
